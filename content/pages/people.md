@@ -28,7 +28,10 @@ Department of Biology
 [Huck Institutes of the Life Sciences](https://www.huck.psu.edu/) and [Institute for CyberScience](https://ics.psu.edu/)  
 [<i class="fa fa-envelope-o"></i>](mailto:erdavenport@gmail.com)
 [<i class="fa fa-twitter"></i>](https://twitter.com/emo_davenport)
-[<i class="fa fa-github"></i>](https://github.com/erdavenport)  
+[<i class="fa fa-github"></i>](https://github.com/erdavenport)
+[<i class="ai ai-cv"></i>](/img/pages/people/cv.pdf)
+[<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?pli=1&authuser=1&user=yR08QEwAAAAJ)
+[<i class="ai ai-orcid"></i>](https://orcid.org/0000-0002-6938-4933)  
 <i class="fa fa-map-marker"></i> Office: 305 Wartik Laboratory, Penn State University
 
 
