@@ -26,7 +26,7 @@ If interested, please send an [email](mailto:erdavenport@gmail.com) to set up a 
 ## Graduate Students
 
 The lab is seeking PhD students interested in both host-microbe interactions in evolution and disease and methods development. 
-The lab accepts graduate students through multiple programs, including the [Biology Graduate Degree Program](https://bio.psu.edu/) and the [Bioinformatics and Genomics Degree Program](https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics). 
+The lab accepts graduate students through multiple programs, including the [Biology Graduate Degree Program](https://bio.psu.edu/). 
 Prospective students should [email me](mailto:erdavenport@gmail.com) the summer or fall before applying so that we can identify the program they should apply to. 
 
 ## Postdocs | Research Associates
