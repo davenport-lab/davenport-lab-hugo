@@ -1,0 +1,11 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty
+[submodule "davenport-lab.github.io"]
+	path = davenport-lab.github.io
+	url = git@github.com:davenport-lab/davenport-lab.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.io/davenport-lab/davenport-lab.github.io.git
+	branch = master
