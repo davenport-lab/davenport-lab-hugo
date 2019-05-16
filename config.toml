@@ -5,7 +5,7 @@ title = "Davenport Lab"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-140335265-1"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
