@@ -14,7 +14,7 @@ draft: false
 ![flasks](/img/pages/openings/flasks.jpg)
 
 The lab is expanding!
-We are currently seeking undergraduate researchers, graduate students, and postdocs/research associates:
+We is seeking undergraduate researchers, graduate students, and postdocs/research associates to start as early as Fall 2019:
 
 ## Undergraduate Researchers
 
